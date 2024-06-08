@@ -3,7 +3,7 @@
         "UpdateStageName": "Update Mumble Server",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "Executable",
-        "UpdateSourceData": "~/mumble-docker/update_mumble.sh",
+        "UpdateSourceData": "/usr/sbin/murmurd -ini /etc/update_mumble.sh",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
