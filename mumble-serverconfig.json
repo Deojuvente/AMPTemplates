@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Mumble Server",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "mumble,server",
+        "FieldName": "mumbleServer",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "mumbleServer",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]

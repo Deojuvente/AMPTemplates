@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "/path/to/mumble-docker/mumble-server.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]

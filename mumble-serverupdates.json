@@ -1,0 +1,12 @@
+[
+    {
+        "UpdateStageName": "Update Mumble Server",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "Executable",
+        "UpdateSourceData": "~/mumble-docker/update_mumble.sh",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": true
+    }
+]
