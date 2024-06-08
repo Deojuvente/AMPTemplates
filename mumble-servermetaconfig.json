@@ -1,6 +1,6 @@
 [
     {
-        "ConfigFile": "~/mumble-docker/mumble-server.ini",
+        "ConfigFile": "/usr/sbin/murmurd -ini /etc/mumble-server.ini",
         "ConfigType": "ini",
         "AutoMap": true
     }
